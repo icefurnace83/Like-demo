@@ -1,3 +1,9 @@
-This executable may be shared freely for demonstration purposes. However, modification or reverse engineering is strictly prohibited. All rights reserved © IceFurnace, 2025.
+This executable may be shared freely for demonstration purposes.  
+However, modification or reverse engineering is strictly prohibited.  
+All rights reserved © IceFurnace, 2025.  
 
-The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from the use or interaction with this software.
+The software is provided "as is", without warranty of any kind, express or implied,  
+including but not limited to the warranties of merchantability, fitness for a particular  
+purpose, and noninfringement. In no event shall the author be liable for any claim, damages,  
+or other liability, whether in an action of contract, tort, or otherwise, arising from  
+the use or interaction with this software.
