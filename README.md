@@ -28,9 +28,11 @@ m   - spawns a (m)onster nearby
 f1  - turn background tile colour on/off  
   
 Currently any key press, even if it does nothing, progesses game time  
+Player has access to swim and lava walk at all times in demo
 
 ## === About === ##  
 Like is a progressively generated world to explore with a day night cycle changing light/visibilty  
-Many different biome types with different terrain and dungeons. Some are easier to navigate then others  
+Many different biome types with different terrain and dungeons. Some are easier to find/navigate then others  
 Civilisation: 1 settlement with a host of NPCs (around 125) with placeholder AI  
-Some landmasses or terrain features may sometimes fail to generate, leading to a domino effect  
+Combat/magic: No combat implemented yet, arrows/ magic have no effect
+Some landmasses or terrain features may sometimes fail to generate, leading to a domino effect of change  
