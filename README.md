@@ -5,7 +5,7 @@ Version 1.08e
 Genre: Exploration (survival/rpg planned)  
 Creator: Icefurnace  
 
-What to do: Nothing yet but explore the world.
+What to do: Explore the world (rest of game in development)
 
 ## === Controls === ###  
 Arrow keys  - move in up, down, left or right direction, sets direction faced North, South, East or West  
@@ -37,4 +37,4 @@ Some are easier to find/navigate then others
 No combat implemented yet  
 Arrows/ magic have no effect  
 
-Some landmasses or terrain features may sometimes fail to generate, leading to a domino effect of change  
+Some landmasses or terrain features may fail to generate, leading to a domino effect of change  
