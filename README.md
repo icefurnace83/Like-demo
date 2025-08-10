@@ -34,4 +34,4 @@ n   - turn (n)o clip on/off (walk through things)
 m   - spawns a (m)onster nearby  
 f1  - turn background tile colour on/off    
 
-Any key press progesses game time  
+Any key press progresses time  
