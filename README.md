@@ -12,11 +12,10 @@ Arrow keys  - move in up, down, left or right direction, sets direction faced No
 Spacebar    - advances time without acting  
 q           - (q)uit  
 
-## earnable skills (enabled for demo)  
+## skills (enabled for demo)  
 t  - (t)orch on/off (lights up 360 degree around player)  
 s  - (s)hoot arrow in direction faced  
-c  - (c)ast, then number (1-8) to choose spell  
-        -> fire in direction faced, no functionality yet  
+c  - (c)ast, then number (1-8) to choose spell to fire in direction faced (no functionality yet)  
 v  - (v)iew/highlight shallow water  
 x  - (x)-ray/highilght unwalkable terrain  
 e  - plac(e) warp point location  
