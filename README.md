@@ -1,6 +1,6 @@
 ## === Like ==== ##  
 
-Game Name: Like
+Game Name: Like  
 Version 1.08e  
 Genre: Exploration (survival/rpg planned)  
 Creator: Icefurnace  
