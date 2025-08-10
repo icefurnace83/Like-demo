@@ -30,8 +30,12 @@ Any key press progesses game time
 Player has access to swim and lava walk at all times in demo  
 
 ## === About === ##  
-Like is a progressively generated world to explore with a day night cycle changing light/visibilty  
-Many different biome types with different terrain and dungeons. Some are easier to find/navigate then others  
+Like is a progressively generated world to explore with a day night cycle that alters visibilty  
+
+Many different biome types with different terrain and dungeons  
+Some are easier to find/navigate then others  
+
 No combat implemented yet  
 Arrows/ magic have no effect  
+
 Some landmasses or terrain features may sometimes fail to generate, leading to a domino effect of change  
