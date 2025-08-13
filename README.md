@@ -1,37 +1,46 @@
-## === Like ====   
+&nbsp;           "Like",
 
-Game Name: Like  
-Version 1.08e  
-Genre: Exploration (survival/rpg planned)  
-Creator: Icefurnace  
+&nbsp;           "---------------------------------------",
 
-## === About ===    
-Like is a progressively generated world to explore with a day night cycle that alters visibilty  
+&nbsp;           "Arrow keys  - move in direction",
 
-Explore many different biome types with different terrain and dungeons  
-Some are easier to find/navigate then others  
+&nbsp;           "l  - look",
 
-No combat implemented yet  
-Arrows/ magic have no effect  
+&nbsp;           "i  - inspect",
 
-Some landmasses or terrain features may fail to generate, leading to a domino effect of change  
+&nbsp;           "q  - quit",
 
-Player has access to swim and lava walk at all times in demo
-## === Controls ===   
-Arrow keys  - move in up, down, left or right direction, sets direction faced North, South, East or West  
-Spacebar    - advances time without acting  
-q           - (q)uit  
---- skills (enabled for demo) ---  
-t  - (t)orch on/off (lights up 360 degree around player)  
-s  - (s)hoot arrow in direction faced  
-c  - (c)ast, then number (1-8) to choose spell to fire in direction faced (no functionality yet)  
-v  - (v)iew/highlight shallow water  
-x  - (x)-ray/highilght unwalkable terrain  
-e  - plac(e) warp point location  
-w  - (w)arp to warp point location  
-## (DEBUG/OPTIONS)  
-n   - turn (n)o clip on/off (walk through things)  
-m   - spawns a (m)onster nearby  
-f1  - turn background tile colour on/off    
+&nbsp;           "t  - torch on/off",
 
-Any key press progresses time  
+&nbsp;           "s  - swim",
+
+&nbsp;           "f  - fire arrow",
+
+&nbsp;           "m  - mine",
+
+&nbsp;           "c  - cut tree/vine",
+
+&nbsp;           "C  - cast spell",
+
+&nbsp;           "r  - reveal shallow water",
+
+&nbsp;           "H  - highlight terrain",
+
+&nbsp;           "w  - set warp location",
+
+&nbsp;           "p  - phasewalk",
+
+
+
+&nbsp;           "R  - rest spirit",
+
+&nbsp;           "d  - detect number of monsters",
+
+&nbsp;           "M  - spawn a monster nearby",
+
+&nbsp;           "F1 - background colour on/off",
+
+&nbsp;           "f2 - hide/show controls",
+
+&nbsp;           "---------------------------------------",
+
